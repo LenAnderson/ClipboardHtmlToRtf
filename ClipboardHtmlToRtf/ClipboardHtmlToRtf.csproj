@@ -95,6 +95,7 @@
     <Content Include="Resources\pandoc-2.13\COPYING.rtf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
