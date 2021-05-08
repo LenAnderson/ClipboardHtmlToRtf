@@ -1,4 +1,4 @@
-﻿# Clipboard HTML to RTF
+# Clipboard HTML to RTF
 
 Automatically converts copied HTML content to RTF if no RTF version is in the clipboard.
 
